@@ -3,5 +3,4 @@
         echo "fkmhf";
         echo "bnweq";
         echo "epyyn";
-        echo "timuq";
 ?>
